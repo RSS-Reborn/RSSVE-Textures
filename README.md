@@ -1,7 +1,8 @@
 # RSSVE-Textures
 This repository hosts the latest EVE and Scatterer Textures for RSS-Reborn, see the [RSS-Reborn Hub](https://github.com/RSS-Reborn/RSS-Reborn) for more information.
-![screenshot1984](https://github.com/RSS-Reborn/RSSVE-Configs/assets/77298148/bbc82427-21f7-40b4-9ef1-e33a8348cad8)
-![screenshot2072](https://github.com/RSS-Reborn/RSSVE-Configs/assets/77298148/3250142d-9c44-4b89-9e79-10700ac9120a)
+![screenshot1759](https://github.com/RSS-Reborn/RSSVE-Textures/assets/77298148/d6a8226d-703c-4a65-9644-393b029d6140)
+![screenshot1664](https://github.com/RSS-Reborn/RSSVE-Textures/assets/77298148/e0f1f18d-29d8-4553-a451-1b8247d49580)
+
 
 ---
 ## Having issues or have suggestions?
